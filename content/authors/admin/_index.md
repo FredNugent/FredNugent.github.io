@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Stephen Joy
+title: Threefold Social Order Podcast
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Threefold Human Being'
+role: 'Powered by Thinking'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Threefold Social Order Podcast
+  - name: Stephen Joy
     url: https://threefoldsocialorderpodcast.org
 
 # Social network links
