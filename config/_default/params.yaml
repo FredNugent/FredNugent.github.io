@@ -15,7 +15,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Threefold Social Order'
-    description: 'Podcast dedicated to understanding Rudolf Steiner's concept of a non-binary Social structure based on three primary components with autonomy to administer their respective spheres'
+    description: 'Podcast dedicated to understanding Rudolf Steiner's concept of a state based on three primary components'
     twitter: 'Threefold Social Order Podcast'
   analytics:
     google_analytics: ''
@@ -23,7 +23,6 @@ marketing:
     plausible: ''
     fathom: ''
     pirsch: ''
-  verification:
     google: ''
     baidu: ''
 
