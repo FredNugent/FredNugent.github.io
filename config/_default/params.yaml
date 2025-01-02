@@ -14,9 +14,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Threefold Social Order'
+    description: 'Podcast dedicated to understanding Rudolf Steiner's concept of a non-binary Social structure based on three primary components with autonomy to administer their respective spheres'
+    twitter: 'Threefold Social Order Podcast'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Stephen Joy. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
