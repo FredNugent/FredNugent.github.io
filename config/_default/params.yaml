@@ -17,7 +17,7 @@ marketing:
     org_name: ''
     description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
-    
+
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-    text: 'Stephen Joy'
+    text: "Stephen Joy"
 
 # Site footer
 footer:
