@@ -23,6 +23,7 @@ marketing:
     plausible: ''
     fathom: ''
     pirsch: ''
+  verification:
     google: ''
     baidu: ''
 
@@ -34,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: ""
+    text: 'Stephen Joy'
 
 # Site footer
 footer:
