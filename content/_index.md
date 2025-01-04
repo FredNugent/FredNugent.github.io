@@ -19,7 +19,7 @@ sections:
           filename: 
           filters:
             brightness: 0.4
-          size: cover
+          size: auto 
           position: center
           parallax: false
   - block: stats
@@ -27,13 +27,13 @@ sections:
       items:
         - statistic: "15"
           description: |
-            Publications
+            USA Homeless
         - statistic: "1,000+"
           description: |
-            Citations
+            Molestation Rate
         - statistic: "78"
           description: |
-            h-index
+            Billionaires
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
