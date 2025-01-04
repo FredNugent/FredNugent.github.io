@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: tso.jpg
           filters:
             brightness: 0.4
           size: cover
@@ -45,7 +45,8 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        The Threefold Social Order as laid our by Dr. Rudolf Steiner is a progressive Social, Poltical and Economic framework that further develops the nascent threefold structuring seen in countries like the United States and France. This podcast will explore the esoteric basis for these systems and ask questions about what it means to be a human being living amongst other human beings. We'll have some fun along the way, and if smiled upon by providence, answer a few metaphysical questions.
+
 
         **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
     design:
