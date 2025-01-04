@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: tso.jpg
+          filename: 
           filters:
             brightness: 0.4
           size: cover
@@ -45,10 +45,8 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        The Threefold Social Order as laid our by Dr. Rudolf Steiner is a progressive Social, Poltical and Economic framework that further develops the nascent threefold structuring seen in countries like the United States and France. This podcast will explore the esoteric basis for these systems and ask questions about what it means to be a human being living amongst other human beings. We'll have some fun along the way, and if smiled upon by providence, answer a few metaphysical questions.
-
-
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        The Threefold Social Order as laid our by Dr. Rudolf Steiner is a progressive Social, Poltical and Economic framework that further develops the nascent threefold structuring seen in countries like the United States and France. This podcast will explore the esoteric basis for these systems and ask questions about what it means to be a human being living amongst other human beings. We'll have some fun along the way, and if smiled upon by providence, answer a few metaphysical questions to boot.
+       
     design:
       columns: '1'
   - block: collection
