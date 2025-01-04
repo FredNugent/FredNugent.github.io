@@ -27,13 +27,13 @@ sections:
       items:
         - statistic: "15"
           description: |
-            USA Homeless
+            Homeless
         - statistic: "1,000+"
           description: |
-            Molestation Rate
+            Billionaires
         - statistic: "78"
           description: |
-            Billionaires
+            Children Molested 
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
