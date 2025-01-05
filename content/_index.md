@@ -14,7 +14,7 @@ sections:
       css_class: dark
       background:
         color: black
-        image: Soundwave
+        image: Soundwave.jpg
           # Add your image background to `assets/media/`.
           filename: 
           filters:
