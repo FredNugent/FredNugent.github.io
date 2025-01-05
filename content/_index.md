@@ -19,7 +19,7 @@ sections:
           filename: 
           filters:
             brightness: 0.4
-          size: 500px 300px
+          size: cover
           position: center
           parallax: false
   - block: stats
